@@ -1,8 +1,8 @@
 ### Navi-Go
 <center>
-  
-![](https://github.com/Team-Llama-here/Navi-Go/blob/main/assests/app.jpeg){:height="50px"}
-
+<div style="height:100px;width:50px">
+![](https://github.com/Team-Llama-here/Navi-Go/blob/main/assests/app.jpeg)
+</div>
 
 </center>
 
