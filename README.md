@@ -1,11 +1,6 @@
 ### State the Problem/Solution Clearly:
 
-This is **Navi-Go**, developed by Team Llama. As a team, we discovered that urban mobility has numerous innovative solutions, including ticket booking, real-time traffic updates, finding the shortest distance between two places, and accessing transit details (buses, trains) between two locations. However, language poses a significant barrier for a large portion of the population, complicating the resolution of urban problems.
-
-To address this, we introduced **Navi-Go**, featuring an in-house conversational language model with multilingual capabilities. This allows users from diverse communities to easily interact with the application for various purposes, such as checking live bus updates, receiving real-time announcements from the transport department and urban mobility planners, exploring less congested routes, and reporting complaints and issues related to public transport.
-
-In addition, our system actively encourages users to adopt environmentally friendly habits for sustainable practices in travel. We believe in promoting eco-conscious behavior, and through **Navi-Go**, users are motivated to practice habits that contribute to a more sustainable and environmentally friendly urban mobility experience.
-
+Navi-Go, developed by Team Llama, addresses urban mobility challenges by offering innovative solutions such as ticket booking, real-time traffic updates, and finding the shortest routes. The team identified language as a barrier and introduced Navi-Go with a conversational language model, enabling multilingual interactions. This facilitates easy access to features like live bus updates, real-time announcements, route exploration, and reporting issues. The system also promotes environmentally friendly practices, encouraging users to adopt sustainable habits for a greener urban mobility experience.
 ### Link to the Web Application, Demo, Presentation:
 
 - You can access and try our application here.
