@@ -48,7 +48,7 @@ Having real-time updates on transport and urban mobility planners is made easy w
 
 The different endpoints in the Navi-Go:
 
-![](https://github.com/Team-Llama-here/Navi-Go/tree/main/assests/andpoints.jpeg)
+![](https://github.com/Team-Llama-here/Navi-Go/blob/main/assests/andpoints.jpeg)
 
 ### View of the application:
 
