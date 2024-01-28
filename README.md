@@ -1,7 +1,8 @@
 ### Navi-Go
 <center>
   
-![](https://github.com/Team-Llama-here/Navi-Go/blob/main/assests/app.jpeg)
+![](https://github.com/Team-Llama-here/Navi-Go/blob/main/assests/app.jpeg){:height="200px"}
+
 
 </center>
 
