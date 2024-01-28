@@ -1,12 +1,5 @@
 ### Navi-Go
-<center>
-<div style="height:100px;width:50px">
 
-![](https://github.com/Team-Llama-here/Navi-Go/blob/main/assests/app.jpeg)
-
-</div>
-
-</center>
 
 ### Problem/Solution:
 
@@ -49,3 +42,11 @@ Having real-time updates on transport and urban mobility planners is made easy w
 3. Firebase Cloud Messaging and Fast APIs are used to send real-time notifications from the transport department or urban planners to all users. 
 4. The front end is developed with React, and data, including complaints, is stored in PostgreSQL.
 5. Translational modules from Google are used for multilingual translation.
+
+### View of the application:
+
+<center>
+
+![](https://github.com/Team-Llama-here/Navi-Go/blob/main/assests/app.jpeg)
+
+</center>
