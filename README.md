@@ -1,6 +1,8 @@
 ### Navi-Go
 <center>
+  
 ![](https://github.com/Team-Llama-here/Navi-Go/blob/main/assests/navigo-min.png)
+
 </center>
 
 ### Problem/Solution:
