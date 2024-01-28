@@ -46,6 +46,9 @@ Having real-time updates on transport and urban mobility planners is made easy w
 4. The front end is developed with React, and data, including complaints, is stored in PostgreSQL.
 5. Translational modules from Google are used for multilingual translation.
 
+The different endpoints in the Navi-Go:
+![](https://github.com/Team-Llama-here/Navi-Go/tree/main/assests)
+
 ### View of the application:
 
 <center>
