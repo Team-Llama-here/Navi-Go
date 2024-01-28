@@ -1,0 +1,4 @@
+**/__pycache__/
+.env
+service_account_key.json
+**/Stella
