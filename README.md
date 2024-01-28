@@ -54,6 +54,6 @@ The different endpoints in the Navi-Go:
 
 <center>
 
-![](https://github.com/Team-Llama-here/Navi-Go/blob/main/assests/app.jpeg)
+![](https://github.com/Team-Llama-here/Navi-Go/blob/main/assests/final.jpeg)
 
 </center>
