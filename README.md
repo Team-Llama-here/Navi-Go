@@ -29,6 +29,9 @@ The conversational agent can be activated by pressing the mic button on the scre
 
 Having real-time updates on transport and urban mobility planners is made easy with real-time notifications by our system in multiple languages, keeping the community informed.
 
+### System Architecture:
+![](https://github.com/Team-Llama-here/Navi-Go/blob/main/assests/navigo_archi.jpeg)
+
 ### Technologies Being Used:
 
 1. For natural language understanding in multiple languages and conversation, we used Gemini, the foundational model of Google, along with GPTs from OpenAI.
