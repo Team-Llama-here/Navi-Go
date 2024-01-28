@@ -1,5 +1,7 @@
+##Navi-Go
 
 ![](https://github.com/Team-Llama-here/Navi-Go/blob/main/assests/favicon.png)
+
 ### Problem/Solution:
 
 Navi-Go, developed by Team Llama, addresses urban mobility challenges by offering innovative solutions such as ticket booking, real-time traffic updates, and finding the shortest routes. The team identified language as a barrier and introduced Navi-Go with a conversational language model, enabling multilingual interactions. This facilitates easy access to features like live bus updates, real-time announcements, route exploration, and reporting issues. The system also promotes environmentally friendly practices, encouraging users to adopt sustainable habits for a greener urban mobility experience.
