@@ -1,6 +1,8 @@
 ### Navi-Go
 
-![](https://github.com/Team-Llama-here/Navi-Go/blob/main/assests/navigo-min1.png)
+
+<img src="https://github.com/Team-Llama-here/Navi-Go/blob/main/assests/navigo-min1.png" style="float: right; margin: 10px;">
+
 
 ### Problem/Solution:
 
