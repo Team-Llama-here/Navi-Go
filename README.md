@@ -1,7 +1,7 @@
 ### Navi-Go
 <center>
   
-![](https://github.com/Team-Llama-here/Navi-Go/blob/main/assests/navigo-min.png)
+![](https://github.com/Team-Llama-here/Navi-Go/blob/main/assests/app.jpeg)
 
 </center>
 
