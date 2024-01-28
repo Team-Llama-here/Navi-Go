@@ -34,8 +34,8 @@ Having real-time updates on transport and urban mobility planners is made easy w
 
 ### Technologies Being Used:
 
-1. For natural language understanding in multiple languages and conversation, we used Gemini, the foundational model of Google, along with GPTs from OpenAI.
-2. To obtain real-time transit data, we used Google Transit API and the Navigation API.
-3. Firebase Cloud Messaging and Fast APIs are used to send real-time notifications from the transport department or urban planners to all users.
+1. For natural language understanding in multiple languages and conversation, we used Gemini, the foundational model of Google, along with GPTs from OpenAI. [refer](https://platform.openai.com/api-keys)
+2. To obtain real-time transit data, we used Google Transit API and the Navigation API. [refer](https://developers.google.com/maps/documentation/routes/transit-route)
+3. Firebase Cloud Messaging and Fast APIs are used to send real-time notifications from the transport department or urban planners to all users. 
 4. The front end is developed with React, and data, including complaints, is stored in PostgreSQL.
 5. Translational modules from Google are used for multilingual translation.
