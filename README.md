@@ -47,7 +47,8 @@ Having real-time updates on transport and urban mobility planners is made easy w
 5. Translational modules from Google are used for multilingual translation.
 
 The different endpoints in the Navi-Go:
-![](https://github.com/Team-Llama-here/Navi-Go/tree/main/assests)
+
+![](https://github.com/Team-Llama-here/Navi-Go/tree/main/assests/andpoints.jpeg)
 
 ### View of the application:
 
