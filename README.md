@@ -5,7 +5,7 @@ Navi-Go, developed by Team Llama, addresses urban mobility challenges by offerin
 
 - You can access and try our application [click here.](navi-go-pragyan.web.app/)
 - Watch the live video demo here.
-- View the technical presentation of the application [click here](https://drive.google.com/file/d/1Ux0_1Wc5C80YH_nJKh4lhq_m3Jg7NHKy/view?usp=drive_link]
+- View the technical presentation of the application [click here](https://drive.google.com/file/d/1Ux0_1Wc5C80YH_nJKh4lhq_m3Jg7NHKy/view?usp=drive_link)
 
 ### User Manual:
 
