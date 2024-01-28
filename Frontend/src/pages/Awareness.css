@@ -1,0 +1,30 @@
+.awareness-wrapper {
+  height: 80%;
+  width: 100%;
+  top: 0;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: start;
+  gap: 20px;
+  text-align: left;
+  padding: 20px;
+  overflow-y: auto;
+}
+
+.awareness {
+  width: 90%;
+  padding: 20px;
+  border-radius: 20px;
+  background-color: var(--nav-bg);
+  text-decoration: none;
+  color: var(--secondary);
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+
+.awareness-title {
+  font-size: 30px;
+  font-weight: 500;
+}

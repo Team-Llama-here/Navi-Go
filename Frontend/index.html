@@ -1,0 +1,65 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <link rel="icon" type="image/png" href="/public/logos/favicon.png" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <meta name="theme-color" content="#64048c" />
+    <title>NaviGo</title>
+    <!-- <script
+      type="text/javascript"
+      src="https://translate.google.com/translate_a/element.js?cb=googleTranslateElementInit"
+    ></script> -->
+    <script
+      type="text/javascript"
+      src="https://cdn.weglot.com/weglot.min.js"
+    ></script>
+    <script>
+      Weglot.initialize({
+        api_key: "wg_a979bdca1de02ee680082528949538910",
+        switchers: [
+          {
+            button_style: {
+              full_name: true,
+              with_name: true,
+              is_dropdown: true,
+              with_flags: true,
+              flag_type: "circle",
+            },
+            location: {
+              target: "#langSelector", // You'll probably have to change it (see the step below in order to find the correct CSS selector)
+              sibling: null,
+            },
+          },
+        ],
+      });
+      // });
+    </script>
+    <style>
+      .wg-default,
+      .wg-default .country-selector {
+        top: 10px !important;
+        bottom: 98% !important;
+        position: absolute !important;
+        border-radius: 20px !important;
+      }
+      .country-selector a {
+        color: whitesmoke !important;
+        background-color: black !important;
+      }
+    </style>
+  </head>
+  <body>
+    <div id="root"></div>
+    <script type="module" src="/src/main.jsx"></script>
+    <!-- <script
+      type="text/javascript"
+      src="https://translate.google.com/translate_a/element.js?cb=googleTranslateElementInit&key=AIzaSyC0QHdh0hJktODiBlAVbWOXYGW3hp1wvWo"
+    ></script>
+    <script type="text/javascript">
+      function googleTranslateElementInit() {
+        new google.translate.TranslateElement({ pageLanguage: "en" }, "root");
+      }
+    </script> -->
+  </body>
+</html>

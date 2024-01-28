@@ -1,0 +1,31 @@
+.circle-background {
+  fill: none;
+  stroke: #ddd;
+}
+
+.circle-progress {
+  fill: none;
+  stroke: blue;
+  stroke-linecap: round;
+  stroke-linejoin: round;
+}
+
+.circle-text {
+  font-size: 2rem;
+  font-weight: 700;
+  fill: var(--tertiary);
+  /* opacity: 90%; */
+  text-shadow: #555 0.05px 0.05px;
+}
+
+.progress-card {
+  padding: 10px;
+  width: 100%;
+  /* background: linear-gradient(355deg, #418cd1, #9c41d1); */
+  background-color: transparent;
+  border-radius: 20px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-direction: column;
+}

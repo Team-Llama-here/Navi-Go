@@ -1,0 +1,32 @@
+#welcomeVideo {
+  position: fixed;
+  right: 0;
+  bottom: 0;
+  width: 100%;
+  height: 100%;
+  z-index: -1;
+  object-fit: cover;
+}
+
+#welcomeContent {
+  box-sizing: border-box;
+  position: fixed;
+  bottom: 0;
+  right: 0;
+  left: 0;
+  background: rgba(0, 0, 0, 0.5);
+  color: #f1f1f1;
+  width: 100%;
+  padding: 20px;
+  white-space: wrap;
+}
+
+.welcome-heading {
+  font-size: 30px;
+  font-weight: 700;
+  font-family: Helvetica, sans-serif;
+}
+
+#welcomeBtn {
+  margin: 5px;
+}

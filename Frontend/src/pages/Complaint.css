@@ -1,0 +1,25 @@
+.complaint-wrapper {
+  height: 80%;
+  width: 100%;
+  top: 0;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: start;
+  gap: 20px;
+  padding: 20px;
+  overflow-y: auto;
+}
+
+.complaint {
+  padding: 20px;
+  width: 90%;
+  border-radius: 20px;
+  background-color: var(--nav-bg);
+  text-align: left;
+}
+
+.complaint-title {
+  font-size: 30px;
+  font-weight: 500;
+}

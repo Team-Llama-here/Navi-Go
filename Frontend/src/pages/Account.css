@@ -1,0 +1,58 @@
+.account-wrapper {
+  height: 80%;
+  width: 100%;
+  top: 0;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  gap: 10px;
+  padding: 20px;
+  text-align: left;
+}
+
+.account-inner-wrapper {
+  width: 100%;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  gap: 10px;
+  overflow-y: auto;
+  padding: 20px;
+  text-align: left;
+  border-radius: 20px;
+  background-color: var(--nav-bg);
+  /* white-space: wrap; */
+  overflow-x: hidden;
+  word-wrap: break-word;
+}
+
+.account-name {
+  font-size: 30px;
+  font-weight: 500;
+}
+
+.account-username,
+.account-email,
+.account-eco,
+.account-contrib {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  padding: 10px;
+  width: 90%;
+  gap: 10px;
+  word-wrap: break-word;
+}
+
+.account-head {
+  font-size: 17px;
+  font-weight: 400;
+  text-decoration: underline dotted;
+}
+
+.account-description {
+  font-size: 17px;
+  word-wrap: break-word;
+}
