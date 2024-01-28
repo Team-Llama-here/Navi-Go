@@ -1,4 +1,4 @@
-##Navi-Go
+### Navi-Go
 
 ![](https://github.com/Team-Llama-here/Navi-Go/blob/main/assests/favicon.png)
 
